@@ -32,3 +32,5 @@ node_modules
 # Optional REPL history
 .node_repl_history
 moderna/kurser-for-barn.hash
+mail/credentials.json
+.DS_Store
