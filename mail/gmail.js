@@ -1,7 +1,6 @@
 'use strict'
 
-const _          = require('underscore'),
-      google     = require('googleapis'),
+const google     = require('googleapis'),
       googleAuth = require('google-auth-library'),
       Promise    = require('bluebird');
 
