@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@slack/client": "^2.1.0",
+    "base64url": "^1.0.6",
+    "bluebird": "^3.3.4",
     "google-auth-library": "^0.9.7",
-    "googleapis": "^2.1.7"
+    "googleapis": "^2.1.7",
+    "mailparser": "^0.5.3",
   }
 }
