@@ -14,6 +14,6 @@
     "bluebird": "^3.3.4",
     "google-auth-library": "^0.9.7",
     "googleapis": "^2.1.7",
-    "mailparser": "^0.5.3",
+    "mailparser": "^0.5.3"
   }
 }
